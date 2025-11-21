@@ -2,10 +2,10 @@
 
 # 🔧 Tools & Technologies
 
-Python 3
-Flask (web app)
-scikit-learn (ML model)
-pandas, numpy (data processing)
-joblib (model saving)
-HTML templates (UI)
-CSV dataset for training
+- Python 3
+- Flask (web app)
+- scikit-learn (ML model)
+- pandas, numpy (data processing)
+- joblib (model saving)
+- HTML templates (UI)
+- CSV dataset for training
